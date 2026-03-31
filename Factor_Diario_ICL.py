@@ -1,7 +1,7 @@
 import math
 from datetime import datetime,timedelta
 
-
+### YA NO SE USA
 #################################### Variable configurables ########################################################################
 
 IPC_3 = 3533.2 # IPC Diciembre
