@@ -1,6 +1,6 @@
 import sys
 from tkinter import *
-
+## WORKS AS IT IS INTENDED
 def calculate(value1, *values):
   """
   Calculates the product of (1 + value) for all provided values.
